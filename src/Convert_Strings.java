@@ -19,11 +19,97 @@ public final class  Convert_Strings {
             codes.put("171","Referenzdatum/-zeit");
             codes.put("361","Mindesthaltbarkeitsdatum");
             segments.put("DTM",codes);
+
+            //Codes for RFF
+            codes = new HashMap<String, String>();
+            codes.put("VN","Mindesthaltbarkeitsdatum");
+            codes.put("ON","Auftrags-/Bestellnummer vom Käufer");
+            codes.put("AAS","Transportdokumentennummer");
+            codes.put("AAM","Frachtbriefnummer");
+            codes.put("DQ","Lieferscheinnummer");
+            segments.put("RFF",codes);
+
+            //Codes for NAD
+            codes = new HashMap<String, String>();
+            codes.put("BY","Käufer");
+            codes.put("DP","Lieferanschrift");
+            codes.put("SU","Lieferant");
+            segments.put("NAD",codes);
+
+            //Codes for GIN
+            codes = new HashMap<String, String>();
+            codes.put("BX","Chargennummer");
+            codes.put("BJ","Nummer der Versandeinheit (NVE)");
+            segments.put("GIN",codes);
+
+            //Codes for QTY
+            codes = new HashMap<String, String>();
+            codes.put("12","Ausgelieferte Menge");
+            codes.put("59","Verbrauchereinheit je Handelseinheit");
+            codes.put("192","Naturalrabatt");
+            segments.put("QTY",codes);
+
+            //Codes for CPS
+            codes = new HashMap<String, String>();
+            codes.put("0","Verpackungshierarchie in der Sendung");
+            segments.put("CPS",codes);
+
+            //Codes for PAC
+            codes = new HashMap<String, String>();
+            codes.put("0","Packstück/Verpackung");
+            segments.put("PAC",codes);
+
+            //Codes for MEA
+            codes = new HashMap<String, String>();
+            codes.put("0","Maße und Gewichte");
+            segments.put("MEA",codes);
+
+            //Codes for PCI
+            codes = new HashMap<String, String>();
+            codes.put("0","Packstückkennzeichnung");
+            segments.put("PCI",codes);
+
+            //Codes for LIN
+            codes = new HashMap<String, String>();
+            codes.put("0","Produkt-/Leistungsnummer");
+            segments.put("LIN",codes);
+
+            //Codes for PIA
+            codes = new HashMap<String, String>();
+            codes.put("0","Zusätzliche Produktidentifikation");
+            segments.put("PIA",codes);
+
+            //Codes for CNT
+            codes = new HashMap<String, String>();
+            codes.put("0","Anzahl der Positionszeilen in der Nachricht");
+            segments.put("CNT",codes);
+
+            //Codes for UNT
+            codes = new HashMap<String, String>();
+            codes.put("0","Segemnt-Zähler + Referenznummer");
+            segments.put("UNT",codes);
+
+            //Codes for UNB
+            codes = new HashMap<String, String>();
+            codes.put("0","Nutzdaten-Kopfsegment");
+            segments.put("UNB",codes);
+
+            //Codes for BGM
+            codes = new HashMap<String, String>();
+            codes.put("0","Beginn der Naricht+Liefermeldung+Narichtennummer");
+            segments.put("BGM",codes);
+
+            //Codes for UNH
+            codes = new HashMap<String, String>();
+            codes.put("0","Nachrichten-Kopfsegment");
+            segments.put("UNH",codes);
+
+            // Getting the Definition
             String ret = segments.get(segment).get(code);
             if (ret == null){
                 ret = "Datacode unkown!";
             }
-            System.out.print(ret);
+
       return ret;
     }
 }
