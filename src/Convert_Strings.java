@@ -104,6 +104,11 @@ public final class  Convert_Strings {
             codes.put("0","Nachrichten-Kopfsegment");
             segments.put("UNH",codes);
 
+            //Codes for UNZ
+            codes = new HashMap<String, String>();
+            codes.put("0","End-Segment");
+            segments.put("UNZ",codes);
+
             // Getting the Definition
             String ret = segments.get(segment).get(code);
             if (ret == null){

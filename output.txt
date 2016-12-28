@@ -1,0 +1,129 @@
+
+Nutzdaten-Kopfsegment                             |UNB|UNOA|3|4009300000006|14|4316723000002|14|150521|1325|6201
+Nachrichten-Kopfsegment                           |UNH|00006201000001|DESADV|D|96A|UN|EAN005
+Beginn der Naricht+Liefermeldung+Narichtennummer  |BGM|351|82087797|9
+Lieferdatum/-zeit geschätzt                       |DTM|17|20150526|102
+Liefertermin (datum/-zeit) gefordert              |DTM|2|20150526|102
+Nachrichtendatum                                  |DTM|137|20150521|102
+Lieferscheinnummer                                |RFF|DQ|82087797
+Referenzdatum/-zeit                               |DTM|171|20150521|102
+Mindesthaltbarkeitsdatum                          |RFF|VN|976004806
+Referenzdatum/-zeit                               |DTM|171|20150520|102
+Auftrags-/Bestellnummer vom Käufer                |RFF|ON
+Referenzdatum/-zeit                               |DTM|171|20150521|102
+Käufer                                            |NAD|BY|4333228000009||9
+Lieferanschrift                                   |NAD|DP|4316649000001||9
+Lieferant                                         |NAD|SU|4009300000006||9
+Verpackungshierarchie in der Sendung              |CPS|1
+Packstück/Verpackung                              |PAC|2||201
+Maße und Gewichte                                 |MEA|PD|AAD|KGM|107.58
+Verpackungshierarchie in der Sendung              |CPS|2|1
+Packstück/Verpackung                              |PAC|1|52|201
+Maße und Gewichte                                 |MEA|PD|AAB|KGM|92.5
+Packstückkennzeichnung                            |PCI|33E
+Nummer der Versandeinheit (NVE)                   |GIN|BJ|340281050568365622
+Packstück/Verpackung                              |PAC|4||PCE
+Produkt-/Leistungsnummer                          |LIN|1||4009300068884|EN
+Zusätzliche Produktidentifikation                 |PIA|1|6888|SA
+Ausgelieferte Menge                               |QTY|12|1|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|120|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20170113|102
+Chargennummer                                     |GIN|BX|935478
+Produkt-/Leistungsnummer                          |LIN|2||4009300069805|EN
+Zusätzliche Produktidentifikation                 |PIA|1|6980|SA
+Ausgelieferte Menge                               |QTY|12|1|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|180|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20170315|102
+Chargennummer                                     |GIN|BX|937801
+Produkt-/Leistungsnummer                          |LIN|3||4009300070801|EN
+Zusätzliche Produktidentifikation                 |PIA|1|7080|SA
+Ausgelieferte Menge                               |QTY|12|1|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|120|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20170413|102
+Chargennummer                                     |GIN|BX|939987
+Produkt-/Leistungsnummer                          |LIN|4||4009300069980|EN
+Zusätzliche Produktidentifikation                 |PIA|1|6998|SA
+Ausgelieferte Menge                               |QTY|12|1|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|120|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20170121|102
+Chargennummer                                     |GIN|BX|938861
+Verpackungshierarchie in der Sendung              |CPS|3|1
+Packstück/Verpackung                              |PAC|1|52|201
+Maße und Gewichte                                 |MEA|PD|AAB|KGM|64.08
+Packstückkennzeichnung                            |PCI|33E
+Nummer der Versandeinheit (NVE)                   |GIN|BJ|340281050568365639
+Packstück/Verpackung                              |PAC|15||PCE
+Produkt-/Leistungsnummer                          |LIN|5||4009300068129|EN
+Zusätzliche Produktidentifikation                 |PIA|1|6812|SA
+Ausgelieferte Menge                               |QTY|12|2|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|10|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20180310|102
+Chargennummer                                     |GIN|BX|939612
+Produkt-/Leistungsnummer                          |LIN|6||4009300068136|EN
+Zusätzliche Produktidentifikation                 |PIA|1|6813|SA
+Ausgelieferte Menge                               |QTY|12|2|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|10|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20180330|102
+Chargennummer                                     |GIN|BX|939614
+Produkt-/Leistungsnummer                          |LIN|7||4009300069393|EN
+Zusätzliche Produktidentifikation                 |PIA|1|6939|SA
+Ausgelieferte Menge                               |QTY|12|5|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|10|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20180410|102
+Chargennummer                                     |GIN|BX|939613
+Produkt-/Leistungsnummer                          |LIN|8||4009300070214|EN
+Zusätzliche Produktidentifikation                 |PIA|1|7021|SA
+Ausgelieferte Menge                               |QTY|12|5|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|10|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20180316|102
+Chargennummer                                     |GIN|BX|939615
+Produkt-/Leistungsnummer                          |LIN|9||4009300069973|EN
+Zusätzliche Produktidentifikation                 |PIA|1|6997|SA
+Ausgelieferte Menge                               |QTY|12|1|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|240|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20161229|102
+Chargennummer                                     |GIN|BX|936628
+Anzahl der Positionszeilen in der Nachricht       |CNT|2|9
+Segemnt-Zähler + Referenznummer                   |UNT|94|00006201000001
+Nachrichten-Kopfsegment                           |UNH|00006201000002|DESADV|D|96A|UN|EAN005
+Beginn der Naricht+Liefermeldung+Narichtennummer  |BGM|351|82087588|9
+Lieferdatum/-zeit geschätzt                       |DTM|17|20150522|102
+Liefertermin (datum/-zeit) gefordert              |DTM|2|20150522|102
+Nachrichtendatum                                  |DTM|137|20150520|102
+Lieferscheinnummer                                |RFF|DQ|82087588
+Referenzdatum/-zeit                               |DTM|171|20150521|102
+Mindesthaltbarkeitsdatum                          |RFF|VN|826912
+Referenzdatum/-zeit                               |DTM|171|20150520|102
+Auftrags-/Bestellnummer vom Käufer                |RFF|ON
+Referenzdatum/-zeit                               |DTM|171|20150520|102
+Käufer                                            |NAD|BY|4333228000009||9
+Lieferanschrift                                   |NAD|DP|4322849000000||9
+Lieferant                                         |NAD|SU|4009300000006||9
+Verpackungshierarchie in der Sendung              |CPS|1
+Packstück/Verpackung                              |PAC|1||201
+Maße und Gewichte                                 |MEA|PD|AAD|KGM|12.2
+Verpackungshierarchie in der Sendung              |CPS|2|1
+Packstück/Verpackung                              |PAC|1|52|201
+Maße und Gewichte                                 |MEA|PD|AAB|KGM|12
+Packstückkennzeichnung                            |PCI|33E
+Nummer der Versandeinheit (NVE)                   |GIN|BJ|340281050568365615
+Packstück/Verpackung                              |PAC|1||PCE
+Produkt-/Leistungsnummer                          |LIN|1||4009300070948|EN
+Zusätzliche Produktidentifikation                 |PIA|1|7094|SA
+Ausgelieferte Menge                               |QTY|12|1|PCE
+Verbrauchereinheit je Handelseinheit              |QTY|59|96|PCE
+Packstückkennzeichnung                            |PCI|17
+Mindesthaltbarkeitsdatum                          |DTM|361|20180308|102
+Chargennummer                                     |GIN|BX|939826
+Anzahl der Positionszeilen in der Nachricht       |CNT|2|1
+Segemnt-Zähler + Referenznummer                   |UNT|32|00006201000002
+End-Segment                                       |UNZ|2|6201
